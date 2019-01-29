@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.joyotime.net.monitor.exchange</groupId>
+  <artifactId>joyo-monitor-loginfo-support</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>joyo-monitor-loginfo</module>
+  	<module>joyo-monitor-loginfo-task</module>
+  	<module>joyo-monitor-loginfo-buffer</module>
+  	<module>joyo-monitor-loginfo-common</module>
+  </modules>
+</project>
